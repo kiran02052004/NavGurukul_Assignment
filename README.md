@@ -63,4 +63,4 @@ npm run dev
 
 ## 🔗 Live Demo
 
-👉 [View Deployed App on Vercel](https://nav-gurukul-assignment.vercel.app/)
+👉 [View Deployed App on Vercel](https://nav-gurukul-assignment-lilac.vercel.app/)
