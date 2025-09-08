@@ -1,0 +1,5 @@
+{
+  "name": "Student Management Dashboard",
+  "description": "A responsive single-page application built with React and Tailwind CSS to manage student records. It allows adding, viewing, and editing student information, and fetches available courses from a mock API to demonstrate core React and JavaScript concepts.",
+  "requestFramePermissions": []
+}
