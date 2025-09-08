@@ -87,15 +87,7 @@ const Header = ({ onAddStudent, onShowCourses, theme, toggleTheme }) => {
             >
               Add Student
             </button>
-            <button
-      onClick={() => {
-        setMenuOpen(false);
-        onShowCourses();
-      }}
-      className="block w-full text-left px-4 py-2 text-gray-800 dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700"
-    >
-      View Courses
-    </button>
+            
   </div>
           
         )}
