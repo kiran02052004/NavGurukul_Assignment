@@ -30,7 +30,7 @@ A **React single-page application** for managing student records. The app allows
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/Bhumika2101/NavGurukul_Assignment.git
+git clone https://github.com/kiran02052004/NavGurukul_Assignment.git
 
 ```
 
